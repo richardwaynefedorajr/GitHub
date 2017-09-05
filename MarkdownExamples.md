@@ -88,5 +88,4 @@ Embedded images are created using the link syntax and exclamation point:
 
 (image link)
 
-![Minions]
-(https://github.com/richardwaynefedorajr/GitHub/blob/master/minions.jpeg)
+![Minions](https://github.com/richardwaynefedorajr/GitHub/blob/master/minions.jpeg)
