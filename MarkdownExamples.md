@@ -82,4 +82,11 @@ This repository is maintained by @richardwaynefedorajr.
 
 # Images
 
-Embedded images are created using the link syntax and exclamation point ![Minions](https://github.com/richardwaynefedorajr/GitHub/minions.jpeg)
+Embedded images are created using the link syntax and exclamation point:
+
+\!\[Title\]
+
+(image link)
+
+![Minions]
+(https://github.com/richardwaynefedorajr/GitHub/minions.jpeg)
