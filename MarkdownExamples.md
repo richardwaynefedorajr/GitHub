@@ -68,8 +68,18 @@ Nested lists are generated using four space indentation:
     - Sub item 1
     - Sub item 2
 
+Task lists are generated using \[ \] before items (\[x\] marks a completed item):
+
+* [ ] Task 1
+* [x] Task 2
+* [ ] Task 3
+
 # Tag Users
 
-# Reference Issues and Pull Requests
+Users may be tagged using \@:
 
-# Emojis
+This repository is maintained by @richardwaynefedorajr.
+
+# Images
+
+Embedded images are created using the link syntax and exclamation point ![Minions](https://github.com/richardwaynefedorajr/GitHub/minions.jpeg)
