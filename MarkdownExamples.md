@@ -36,7 +36,7 @@ for ( int i = 0; i < 10; ++i ) {
 
 # Links
 
-A link can be generated using \[Text\](link):
+A link is generated using \[Text\](link):
 
 Check the [GitHub repository](https://github.com/richardwaynefedorajr/GitHub) for details.
 
@@ -45,6 +45,28 @@ A relative link can also be generated:
 Check the [README](README.md) for project details.
 
 # Lists
+
+Lists are generated using \- or \*:
+
+- Item 1
+- Item 2
+
+* Item 1
+* Item 2
+
+Enumerated lists are generated using numbers:
+
+1. Item 1
+2. Item 2
+
+Nested lists are generated using four space indentation:
+
+1. Item 1
+    * Sub item 1
+    * Sub item 2
+2. Item 2
+    - Sub item 1
+    - Sub item 2
 
 # Tag Users
 
