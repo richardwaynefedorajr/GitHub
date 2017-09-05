@@ -22,7 +22,7 @@ Sub-subsection heading is generated using \#\#\# Sub-subsection
 
 # Quotes
 
-A quote is generated using \>
+A quote is generated using \> Quotation text
 
 > Quotation text
 
@@ -32,8 +32,17 @@ Code formating is achieved using \`\`\`, and syntax highlighting by \`\`\` langu
 for ( int i = 0; i < 10; ++i ) {
     std::cout << "Hello world" << std::endl; 
 }
+```
 
 # Links
+
+A link can be generated using \[Text\](link):
+
+Check the [GitHub repository](https://github.com/richardwaynefedorajr/GitHub) for details.
+
+A relative link can also be generated:
+
+Check the [README](README.md) for project details.
 
 # Lists
 
