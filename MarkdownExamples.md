@@ -22,6 +22,17 @@ Sub-subsection heading is generated using \#\#\# Sub-subsection
 
 # Quotes
 
+A quote is generated using \>
+
+> Quotation text
+
+Code formating is achieved using \`\`\`, and syntax highlighting by \`\`\` language:
+
+```cpp
+for ( int i = 0; i < 10; ++i ) {
+    std::cout << "Hello world" << std::endl; 
+}
+
 # Links
 
 # Lists
